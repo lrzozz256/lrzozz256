@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi!👋, I am OzzyDev / @lrzozz256
 
-<!--
-**lrzozz256/lrzozz256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About Me? ☕**
+<p>I am OzzyDev, I can make a website with html, css, and javascript code. I can also make code for jokes.</p>
 
-Here are some ideas to get you started:
+## **Github Statistics 📊**
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **My Profile Visits 👁️**
+<p align="center">
+	<img src="https://moe-counter.glitch.me/get/@lrzozz256?theme=rule34" alt="Rem01Gaming's cutie counter"/>
+	<br><br>
+	<code>Thank you for visiting my profile :3.</code>
+</p>
+
+## **Contact Us 📫**
+**Please contact me on Telegram for a faster response.** [OzzyDev256](https://t.me/lrzozz)
+
+**You can also send a message to email here:**
+
+```c
+public class Email {
+    public static void main(String[] args) {
+        System.out.println("OzzyDEV_256@proton.me");
+    }
+}
+```
