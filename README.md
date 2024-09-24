@@ -5,13 +5,13 @@
 
 ## **Github Statistics 📊**
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="OzzyDev_OzzyDev" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="OzzyDev"/>
 </p>
 
 ## **My Profile Visits 👁️**
 <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@lrzozz256?theme=rule34" alt="Rem01Gaming's cutie counter"/>
+	<img src="https://moe-counter.glitch.me/get/@lrzozz256?theme=rule34" alt="OzzyDev Profile Visit"/>
 	<br><br>
 	<code>Thank you for visiting my profile :3.</code>
 </p>
