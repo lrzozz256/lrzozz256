@@ -5,8 +5,8 @@
 
 ## **Github Statistics 📊**
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrzozz256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 ## **My Profile Visits 👁️**
