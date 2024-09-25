@@ -16,6 +16,9 @@
 	<code>Thank you for visiting my profile :3.</code>
 </p>
 
+## **I Use the Operating System 💻**
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="OzzyDev Icon Android" />
+
 ## **Contact Us 📫**
 **Please contact me on Telegram for a faster response.** [OzzyDev256](https://t.me/lrzozz)
 
