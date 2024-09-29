@@ -1,7 +1,7 @@
 ### Hi!👋, I am OzzyDev / @lrzozz256
 
 ## **About Me? ☕**
-<p>I am OzzyDev, I can make a website with html, css, and javascript code. I also sometimes make sites for jokes.</p>
+<p>I am OzzyDev, I can create websites with html, css, and javascript codes. I can also create python, shell, java code.I sometimes make a site for jokes😁</p>
 
 ## **Github Statistics 📊**
 <p align="center">
