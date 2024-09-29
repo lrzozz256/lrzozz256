@@ -3,13 +3,17 @@
 ## **About Me? ☕**
 <p>I am OzzyDev, I can create websites with html, css, and javascript codes. I can also create python, shell, java code.I sometimes make a site for jokes😁</p>
 
+### lrzozz256@debian:~$ python /home/lrzozz256/removewindows.py
+
+<p>removewindows.py</p>
+
 ```c
 import os
 import time
 if os.name == 'nt':
     print("Delete System32 In Windows In 3 Seconds!!!")
     time.sleep(3) 
-os.remove("C:\Windows\System32")
+     os.remove("C:\Windows\System32")
    else:
      print("Not bad, don't use windows!!!!")
 ```
