@@ -7,7 +7,7 @@
 
 <p>removewindows.py</p>
 
-```c
+```python
 import os
 import time
 if os.name == 'nt':
@@ -39,7 +39,7 @@ if os.name == 'nt':
 
 **You can also send a message to email here:**
 
-```c
+```java
 public class Email {
     public static void main(String[] args) {
         System.out.println("OzzyDEV_256@proton.me");
